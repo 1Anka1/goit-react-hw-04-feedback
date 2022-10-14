@@ -1,1 +1,1 @@
-**Refactoring the code of the "Feedback Widget" task using React hooks.
+Refactoring the code of the "Feedback Widget" task using React hooks.
